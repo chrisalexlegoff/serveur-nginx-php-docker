@@ -80,4 +80,4 @@ docker run -d -ti monserveur:dev bash
 
 ## Auteur
 
-- **Christophe Le Goff**
+- **Christophe Le Goff** - [Mon site personnel](https://christophe-le-goff.com)
