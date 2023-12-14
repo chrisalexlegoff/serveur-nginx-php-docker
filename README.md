@@ -61,7 +61,7 @@ docker run -d -p 8080:80 --name monserveurtest monserveur:dev
 Comment démarrer également un shell dans votre conteneur
 
 ```shell
-docker run -d -ti monserveur:dev bash
+docker exec -ti monserveur:dev bash
 ```
 
 #### Environment Variables
